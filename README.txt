@@ -1,4 +1,4 @@
-NexCorp Business Corporate Template
+﻿NexCorp Business Corporate Template
 ===================================
 Version: 1.0.0
 Author: Google Deepmind Agent
@@ -20,24 +20,24 @@ Features
 Folder Structure
 ----------------
 /
-├── index.html          # Homepage
-├── about.html          # About Us
-├── services.html       # Services
-├── projects.html       # Portfolio/Projects
-├── pricing.html        # Pricing Plans
-├── blog.html           # Blog Listing
-├── contact.html        # Contact Page
-│
-└── assets/
-    ├── css/            # CSS Files
-    │   ├── style.css       # Global Styles
-    │   ├── index.css       # Home Page Styles
-    │   ├── about.css       # Page Specific Styles...
-    │   └── ...
-    │
-    └── js/             # JavaScript Files
-        ├── main.js         # Global Scripts
-        └── ...
+â”œâ”€â”€ index.html          # Homepage
+â”œâ”€â”€ about.html          # About Us
+â”œâ”€â”€ services.html       # Services
+â”œâ”€â”€ projects.html       # Portfolio/Projects
+â”œâ”€â”€ pricing.html        # Pricing Plans
+â”œâ”€â”€ blog.html           # Blog Listing
+â”œâ”€â”€ contact.html        # Contact Page
+â”‚
+â””â”€â”€ assets/
+    â”œâ”€â”€ css/            # CSS Files
+    â”‚   â”œâ”€â”€ style.css       # Global Styles
+    â”‚   â”œâ”€â”€ index.css       # Home Page Styles
+    â”‚   â”œâ”€â”€ about.css       # Page Specific Styles...
+    â”‚   â””â”€â”€ ...
+    â”‚
+    â””â”€â”€ js/             # JavaScript Files
+        â”œâ”€â”€ main.js         # Global Scripts
+        â””â”€â”€ ...
 
 
 Installation & Usage
@@ -56,3 +56,4 @@ Credits
 Support
 -------
 For support or inquiries, please contact your marketplace provider.
+
